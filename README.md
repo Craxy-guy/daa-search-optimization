@@ -306,11 +306,11 @@ DAA project/
 2. **Single-threaded benchmarks**: Results may vary under system load
 3. **Numeric data only**: Currently supports numeric arrays; string/object search not implemented
 4. **No persistent datasets**: Datasets are lost on server restart
-5. **LLM dependency**: Enhanced explanations require an OpenAI API key and internet connection
+5. **LLM dependency**: Enhanced explanations require an LLM(OpenAI/gemini) API key and internet connection for the response. 
 
 ## Future Scope
 
-1. **Additional algorithms**: Interpolation Search, Jump Search, Exponential Search, Hash-based Search
+1. **Additional algorithms**: Interpolation Search, Jump Search, Exponential Search, Hash-based Search 
 2. **Persistent storage**: Database-backed dataset storage with file upload history
 3. **Parallel benchmarks**: Multi-threaded benchmark execution
 4. **Custom algorithm plugins**: Allow users to add their own search implementations
