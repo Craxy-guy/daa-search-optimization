@@ -323,7 +323,7 @@ DAA project/
 | Name |
 |------|
 | Parth Bairagade |
-| Om V Dangi |
+| Om  Dangi |
 | Dhyey Patel |
 
 ## License
