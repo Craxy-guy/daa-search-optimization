@@ -320,11 +320,11 @@ DAA project/
 
 ## Team Members
 
-| Name | Role |
-|------|------|
-| [Your Name] | Full Stack Developer |
-| [Team Member 2] | [Role] |
-| [Team Member 3] | [Role] |
+| Name |
+|------|
+| Parth Bairagade |
+| Om V Dangi |
+| Dhyey Patel |
 
 ## License
 
@@ -332,4 +332,4 @@ This project was developed as part of the Design and Analysis of Algorithms (DAA
 
 ---
 
-*Built with ❤️ using React, FastAPI, and algorithmic thinking.*
+*Built using React, FastAPI, and algorithmic thinking.*
